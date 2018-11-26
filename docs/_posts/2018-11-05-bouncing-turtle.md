@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Bouncing Turtle"
 cover: "/assets/bouncing_turtle.gif"
 excerpt: "Pixel Turtle bouncing around!"

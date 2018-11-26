@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Breaking the loop"
 cover: "/assets/breaking_loop.gif"
 excerpt: "Break your loop with a Pixel Kit button"

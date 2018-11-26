@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Turtle Rainbow"
 cover: "/assets/turtle_rainbow.gif"
 excerpt: "Draw a rainbow with Pixel Turtle"

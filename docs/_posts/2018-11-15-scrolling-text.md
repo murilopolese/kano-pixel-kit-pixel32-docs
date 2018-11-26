@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: default
 title: "Scrolling Text"
 cover: "/assets/scrolling_text.gif"
 excerpt: "Animate text scrolling on the screen"
 ---
 
-# Pong!
+# Scrolling text
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hc_qwIL0So0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

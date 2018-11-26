@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Turtle's Random Walk"
 cover: "/assets/turtle_random_walk.gif"
 excerpt: "Pixel Turtle walks randomly on the screen!"

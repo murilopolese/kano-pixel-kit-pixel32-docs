@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Connecting"
 cover: "/assets/turning_on.gif"
 excerpt: "Connect the terminal page to your Pixel Kit and then connect it to your wifi network."
