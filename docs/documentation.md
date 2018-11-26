@@ -8,6 +8,8 @@ Documentation is how we call the manuals, reference material and sometimes even 
 
 Here is a list of useful documentation websites:
 
+- [Connecting to Pixel32 terminal page]({{ '/pixel32' | relative_url }})
+- [Troubleshooting / FAQ]({{ '/troubleshooting' | relative_url }})
 - [Pixel Turtle Library]({{ '/pixel-turtle' | relative_url }})
 - [Pixel Kit Library]({{ '/pixel-kit' | relative_url }})
 - [Programming in Python: Variables, Conditions, Repetition and Functions]({{ '/programming-in-python' | relative_url }})
